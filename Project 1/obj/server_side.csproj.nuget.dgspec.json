@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\github\\projects\\server_side\\server_side.csproj": {}
+    "e:\\github\\projects\\server_side\\server_side.csproj": {}
   },
   "projects": {
-    "E:\\github\\projects\\server_side\\server_side.csproj": {
+    "e:\\github\\projects\\server_side\\server_side.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\projects\\server_side\\server_side.csproj",
+        "projectUniqueName": "e:\\github\\projects\\server_side\\server_side.csproj",
         "projectName": "server_side",
-        "projectPath": "E:\\github\\projects\\server_side\\server_side.csproj",
+        "projectPath": "e:\\github\\projects\\server_side\\server_side.csproj",
         "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\projects\\server_side\\obj\\",
+        "outputPath": "e:\\github\\projects\\server_side\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
