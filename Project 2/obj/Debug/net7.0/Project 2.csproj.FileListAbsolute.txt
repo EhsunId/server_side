@@ -1,0 +1,30 @@
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\appsettings.Development.json
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\appsettings.json
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.staticwebassets.runtime.json
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.exe
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.deps.json
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.runtimeconfig.json
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.dll
+E:\github\projects\server_side\Project 2\bin\Debug\net7.0\Project 2.pdb
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.AssemblyInfoInputs.cache
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.AssemblyInfo.cs
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.csproj.CoreCompileInputs.cache
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.MvcApplicationPartsAssemblyInfo.cache
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.RazorAssemblyInfo.cache
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.RazorAssemblyInfo.cs
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets\msbuild.Project 2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Project 2.props
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project 2.props
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project 2.props
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets.build.json
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\staticwebassets.development.json
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\scopedcss\bundle\Project 2.styles.css
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\scopedcss\projectbundle\Project 2.bundle.scp.css
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.dll
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\refint\Project 2.dll
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.pdb
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\Project 2.genruntimeconfig.cache
+E:\github\projects\server_side\Project 2\obj\Debug\net7.0\ref\Project 2.dll

@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "products_page";
+}
+
+
+<table class="table table-responsive">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Categoty</th>
+        <th>Weight</th>
+        <th>Height</th>
+        <th>DateInsert</th>
+        <th>Price</th>
+        <th>Available</th>
+    </tr>
+
+@{
+    foreach(var item in Model){
+        <tr>
+            <td>@item.P_id</td>
+            <td>@item.P_name</td>
+            <td>@item.P_category</td>
+            <td>@item.P_weight</td>
+            <td>@item.P_height</td>
+            <td>@item.P_DateInsert</td>
+            <td>@item.P_price</td>
+            <td>@item.P_available</td>
+
+        </tr>
+    }
+}
+</table>
+<p>Total price of all available products : @ViewBag.ret</p>
+
